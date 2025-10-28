@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+
+# Node modules (if using npm for Bootstrap or packages)
+node_modules/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
