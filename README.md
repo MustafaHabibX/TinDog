@@ -3,7 +3,7 @@
 A responsive static website built with Bootstrap 5 that allows users to explore a Tinder-style platform for dogs.
 
 <p align="center">
-  <img src="./assets/banner.webp" alt="TinDog Banner" width="500"/>
+  <img src="./assets/banner.webp" alt="TinDog Banner" width="800"/>
 </p>
 
 <br>
